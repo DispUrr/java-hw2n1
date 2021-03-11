@@ -16,7 +16,7 @@
 
 1. 70 % успешных тестов;
 1. Ссылки на баг-репорты:
-    - [Неверный тип данных переменных в Money Transfer](https://github.com/DispUrr/java-hw2n1/issues/1)
+    - [Некорректный рассчет суммы баланса при пополнении счёта](https://github.com/DispUrr/java-hw2n1/issues/1)
 
 Общие рекомендации
 
